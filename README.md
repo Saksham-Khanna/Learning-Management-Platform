@@ -60,8 +60,6 @@ Environment Variables:
 Create a file named .env in the frontend folder with the following line:
 REACT_APP_API_URL=http://localhost:5000
 
-Never upload the .env file to GitHub. Add it to .gitignore.
-
 Features:
 
 Login and Register for learners and instructors
