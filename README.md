@@ -1,6 +1,6 @@
-Adaptive Learning Platform – Frontend
+Learning Management Platform – Frontend
 
-This is the frontend of the Adaptive Learning Platform, built using React.js.
+This is the frontend of the Learning Management Platform, built using React.js.
 It provides an interface for learners and instructors to take quizzes, view scores, manage quizzes, and track learning progress.
 
 Tech Stack:
